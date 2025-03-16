@@ -1,11 +1,11 @@
 /*
 ===============================================================================
-DDL Script: Create Bronze Tables
+Bronze layer response Script: SHOW Bronze Tables SCRIPT
 ===============================================================================
 Script Purpose:
-    This script creates tables in the 'bronze' schema, dropping existing tables 
-    if they already exist.
-	  Run this script to re-define the DDL structure of 'bronze' Tables
+    This script show the response of 'bronze' schema, dropping existing tables 
+    if they already exist and then creating table.
+	  its also show affected rows and load duration by each table 
 ===============================================================================
 */
 
