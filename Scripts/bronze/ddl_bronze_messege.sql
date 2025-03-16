@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Bronze layer response Script: SHOW Bronze Tables SCRIPT
+Bronze layer response Script: SHOW Bronze Tables message
 ===============================================================================
 Script Purpose:
     This script show the response of 'bronze' schema, dropping existing tables 
